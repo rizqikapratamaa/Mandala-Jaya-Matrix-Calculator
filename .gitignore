@@ -1,0 +1,9 @@
+# Compiled class file
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS X files
+.DS_Store
